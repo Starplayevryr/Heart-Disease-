@@ -12,7 +12,7 @@ The solution involves the following steps:
 	3. Model Selection: Apply machine learning algorithms such as logistic regression, decision trees, random forests, and neural networks to develop predictive models.
 	4. Model Training and Validation: Train the models on historical data and validate their performance using test sets to ensure accuracy and reliability.
   5. Build a preictive system.
-![image](https://github.com/user-attachments/assets/a236065e-d2eb-4d6e-9112-5b59de3c860e)
+
 
 This approach will provide an effective screening tool for heart disease, facilitating earlier detection and reducing the risk of severe cardiovascular events through preventive care.
 
@@ -42,6 +42,6 @@ Here's an example of how you might structure the list of specific audiences for 
 
 My datathon project focuses on predicting heart disease risk among individuals using various health metrics. I will primarily use structured datasets containing health metrics like blood pressure, cholesterol 
 levels, age, and lifestyle factors. I plan to source my datasets from publicly available health databases and repositories like Kaggle 
-![image](https://github.com/user-attachments/assets/c1f0ca48-a632-4e70-9ab9-8dde16dbd5d7).
+
 
 
